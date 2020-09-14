@@ -7,15 +7,20 @@
 > A curated list of awesome things related to Laravel Vapor
 
 ## Contribution
-Have you found something that makes Laravel Vapor more awesome? Make a PR and add it to the list! Please be sure to read the [contribution guidelines](CONTRIBUTING.md) first.
+Have you found something that makes Laravel Vapor more awesome? Make a PR and add it to the list!
 
 ## Table of Contents
 
+- [Resources](#resources)
 - [Packages](#packages)
-- [Talks](#talks)
+
+## Resources
+* [Article: A 1 year review of Laravel Vapor](https://usefathom.com/blog/vapor-one-year)
+* [Article: Laravel Blog](https://blog.laravel.com/vapor)
+* [Documentation](https://docs.vapor.build/1.0/introduction.html)
+* [Video: Laracon US 2020: Intro to Laravel Vapor by Taylor Otwell](https://www.youtube.com/watch?v=XsPeWjKAUt0)
+* [Video: Laravel Vapor Overview by Andre Madarang](https://www.youtube.com/watch?v=xqVUdebctAM)
+* [Video Course: Serverless Laravel](https://serverlesslaravelcourse.com)
 
 ## Packages
 * [Vapor UI Dashboard](https://github.com/laravel/vapor-ui)
-
-## Talks
-* [Laracon US 2020: Taylor Otwell - Intro to Laravel Vapor](https://www.youtube.com/watch?v=XsPeWjKAUt0)
