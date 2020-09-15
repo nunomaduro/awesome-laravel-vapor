@@ -17,9 +17,11 @@ Have you found something that makes Laravel Vapor more awesome? Make a PR and ad
 ## Resources
 * [Article: A 1 year review of Laravel Vapor](https://usefathom.com/blog/vapor-one-year)
 * [Article: Laravel Blog](https://blog.laravel.com/vapor)
+* [Article: Should I use Laravel Vapor?](https://serverlesslaravelcourse.com/blog/should-i-use-laravel-vapor)
 * [Documentation](https://docs.vapor.build/1.0/introduction.html)
-* [Video: Laracon US 2020: Intro to Laravel Vapor by Taylor Otwell](https://www.youtube.com/watch?v=XsPeWjKAUt0)
 * [Video: Laravel Vapor Overview by Andre Madarang](https://www.youtube.com/watch?v=xqVUdebctAM)
+* [Video Conference - Laracon US 2020: Intro to Laravel Vapor by Taylor Otwell](https://www.youtube.com/watch?v=XsPeWjKAUt0)
+* [Video Conference - Method Conference 2020: Serverless PHP Applications With Laravel Vapor by Taylor Otwell](https://www.youtube.com/watch?v=QMmqe1JdzfY)
 * [Video Course: Serverless Laravel](https://serverlesslaravelcourse.com)
 
 ## Packages
