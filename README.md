@@ -16,6 +16,7 @@ Have you found something that makes Laravel Vapor more awesome? Make a PR and ad
 
 ## Resources
 * [Article: A 1 year review of Laravel Vapor](https://usefathom.com/blog/vapor-one-year)
+* [Artilce: Adding Imagick As Separate Lambda Layer](https://blog.laravel.com/vapor-adding-imagick-as-a-separate-lambda-layer)
 * [Article: Cost & Performance optimization in Laravel Vapor](https://divinglaravel.com/cost-performance-optimization-in-laravel-vapor)
 * [Article: Laravel Blog](https://blog.laravel.com/vapor)
 * [Article: Should I use Laravel Vapor?](https://serverlesslaravelcourse.com/blog/should-i-use-laravel-vapor)
