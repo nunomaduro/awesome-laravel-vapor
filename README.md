@@ -12,7 +12,11 @@ Have you found something that makes Laravel Vapor more awesome? Make a PR and ad
 ## Table of Contents
 
 - [Resources](#resources)
+- [Chats](#chats)
 - [Packages](#packages)
+
+## Chats
+- [Discord](https://discord.gg/mPZNm7A)
 
 ## Resources
 * [Article: A 1 year review of Laravel Vapor](https://usefathom.com/blog/vapor-one-year)
