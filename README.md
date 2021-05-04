@@ -32,6 +32,7 @@ Have you found something that makes Laravel Vapor more awesome? Make a PR and ad
 * [Video: Laravel Vapor Overview by Andre Madarang](https://www.youtube.com/watch?v=xqVUdebctAM)
 * [Video Conference - Laracon US 2020: Intro to Laravel Vapor by Taylor Otwell](https://www.youtube.com/watch?v=XsPeWjKAUt0)
 * [Video Conference - Method Conference 2020: Serverless PHP Applications With Laravel Vapor by Taylor Otwell](https://www.youtube.com/watch?v=QMmqe1JdzfY)
+* [Video Course: Learn Laravel Vapor](https://www.youtube.com/playlist?list=PLcjapmjyX17gqhjUz8mgTaWzSv1FPgePD)
 * [Video Course: Serverless Laravel](https://serverlesslaravelcourse.com)
 * [Script: Separate staging/production AWS accounts for a Vapor project](https://github.com/Snowfire/vapor-on-different-environments)
 
